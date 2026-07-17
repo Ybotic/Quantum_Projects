@@ -3,7 +3,6 @@ from qiskit_aer import AerSimulator
 
 
 def build_superdense_coding_circuit(message):
-
     qc = QuantumCircuit(2, 2)
 
     qc.h(0)
@@ -38,14 +37,31 @@ def build_superdense_coding_circuit(message):
     return qc
 
 
-# ----------------------------------------------------
+print("Choose a 2-bit message to send:")
+print("1. 00")
+print("2. 01")
+print("3. 10")
+print("4. 11")
 
-message = "10"
+options = {
+    "1": "00",
+    "2": "01",
+    "3": "10",
+    "4": "11"
+}
+
+while True:
+    choice = input("\nEnter your choice (1-4): ").strip()
+
+    if choice in options:
+        message = options[choice]
+        break
+
+    print("Invalid choice. Please enter 1, 2, 3, or 4.")
 
 qc = build_superdense_coding_circuit(message)
 
-print("Message sent:", message)
-print()
+print(f"\nMessage sent: {message}\n")
 print(qc.draw(output="text"))
 
 sim = AerSimulator()
