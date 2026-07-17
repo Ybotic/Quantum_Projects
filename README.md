@@ -6,7 +6,7 @@ A collection of quantum computing projects built with Qiskit while learning quan
 
 - ✅ Bell State
 - ✅ Quantum Teleportation
-- ⏳ Superdense Coding
+- ✅ Superdense Coding
 - ⏳ Deutsch–Jozsa Algorithm
 - ⏳ Bernstein–Vazirani Algorithm
 - ⏳ Simon's Algorithm
