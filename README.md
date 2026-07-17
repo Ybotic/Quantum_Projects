@@ -8,7 +8,7 @@ A collection of quantum computing projects built with Qiskit while learning quan
 - ✅ Quantum Teleportation
 - ✅ Superdense Coding
 - ✅ Deutsch–Jozsa Algorithm
-- ⏳ Bernstein–Vazirani Algorithm
+- ✅ Bernstein–Vazirani Algorithm
 - ⏳ Simon's Algorithm
 - ⏳ Grover's Algorithm
 - ⏳ Quantum Fourier Transform
