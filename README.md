@@ -10,6 +10,6 @@ A collection of quantum computing projects built with Qiskit while learning quan
 - ✅ Deutsch–Jozsa Algorithm
 - ✅ Bernstein–Vazirani Algorithm
 - ✅ Simon's Algorithm
-- ⏳ Grover's Algorithm
+- ✅ Grover's Algorithm
 - ⏳ Quantum Fourier Transform
 - ⏳ Shor's Algorithm
