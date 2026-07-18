@@ -9,7 +9,7 @@ A collection of quantum computing projects built with Qiskit while learning quan
 - ✅ Superdense Coding
 - ✅ Deutsch–Jozsa Algorithm
 - ✅ Bernstein–Vazirani Algorithm
-- ⏳ Simon's Algorithm
+- ✅ Simon's Algorithm
 - ⏳ Grover's Algorithm
 - ⏳ Quantum Fourier Transform
 - ⏳ Shor's Algorithm
