@@ -11,5 +11,6 @@ A collection of quantum computing projects built with Qiskit while learning quan
 - ✅ Bernstein–Vazirani Algorithm
 - ✅ Simon's Algorithm
 - ✅ Grover's Algorithm
-- ⏳ Quantum Fourier Transform
+- ✅ Quantum Fourier Transform
+- ⏳ Quantum Phase Estimation
 - ⏳ Shor's Algorithm
