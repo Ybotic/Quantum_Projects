@@ -26,15 +26,15 @@ The program prepares the eigenstate:
 
 and estimates the phase of the unitary operator
 
-\[
-P\left(\frac{\pi}{4}\right)
-\]
+```text
+P(π/4)
+```
 
 whose eigenvalue is
 
-\[
-e^{i\pi/4}=e^{2\pi i(1/8)}.
-\]
+```text
+e^(iπ/4) = e^(2πi × 1/8)
+```
 
 ## Example Output
 
